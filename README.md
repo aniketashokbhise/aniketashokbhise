@@ -1,12 +1,16 @@
-# Aniket Bhise
+# <div align="center"> <img src="https://img.shields.io/badge/AB-5B7CFA?style=flat-square&logo=github&logoColor=white&label=&labelColor=5B7CFA" alt="AB" width="30" height="30" /> **Aniket Bhise** </div>
 
 <div align="center">
 
 ### @aniketashokbhise · Full Stack Developer
 
-![Open to work](https://img.shields.io/badge/●-Open%20to%20work-green?style=flat-square&labelColor=1f2937)
-![Currently building School LMS](https://img.shields.io/badge/●-Currently%20building%20School%20LMS-blue?style=flat-square&labelColor=1f2937)
-![Learning something new every day](https://img.shields.io/badge/●-Learning%20something%20new%20every%20day-purple?style=flat-square&labelColor=1f2937)
+</div>
+
+<div align="center">
+
+![Open to work](https://img.shields.io/badge/●-Open%20to%20work-3fb950?style=flat-square&labelColor=1f2937)
+![Currently building School LMS](https://img.shields.io/badge/●-Currently%20building%20School%20LMS-58a6ff?style=flat-square&labelColor=1f2937)
+![Learning something new every day](https://img.shields.io/badge/●-Learning%20something%20new%20every%20day-bc8cff?style=flat-square&labelColor=1f2937)
 
 </div>
 
@@ -14,15 +18,15 @@
 
 ## ABOUT
 
-🔭 **Working on** **School LMS**
+> 🔭 Working on **School LMS**
 
-💬 **Ask me about** **Full Stack** development
+> 💬 Ask me about **Full Stack** development
 
-📫 **Email:** [aniketbhise449@gmail.com](mailto:aniketbhise449@gmail.com)
+> 📫 Email: [aniketbhise449@gmail.com](mailto:aniketbhise449@gmail.com)
 
-👨‍💻 **View portfolio** [↗](https://6964d9275d4ac6a0d8e79ca2--extraordinary-madeleine-6901e0.netlify.app/)
+> 👨‍💻 [View portfolio ↗](https://6964d9275d4ac6a0d8e79ca2--extraordinary-madeleine-6901e0.netlify.app/)
 
-⚡ **Fun fact:** I learn something new in tech every day
+> ⚡ Fun fact: I learn something new in tech every day
 
 ---
 
@@ -30,9 +34,9 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aniketbhise8204)](https://twitter.com/aniketbhise8204)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/aniket-ashok-bhise-5bab61205)](https://linkedin.com/in/aniket-ashok-bhise-5bab61205)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aniketbhise8204)](https://instagram.com/aniketbhise8204)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aniketbhise8204)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-ashok-bhise-5bab61205)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aniketbhise8204)
 
 </div>
 
@@ -85,7 +89,9 @@
 
 <div align="center">
 
+```
 // aniketashokbhise · github.com
+```
 
 ![profile views: live](https://img.shields.io/badge/●-profile%20views%3A%20live-58a6ff?style=flat-square&labelColor=1f2937)
 
