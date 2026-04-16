@@ -13,7 +13,6 @@
 
 ## 🔹 ABOUT
 
-* 🔭 Working on **School LMS**
 * 💬 Ask me about **Full Stack Development**
 * 📫 **[aniketbhise449@gmail.com](mailto:aniketbhise449@gmail.com)**
 * 👨‍💻 [View Portfolio ↗](https://6964d9275d4ac6a0d8e79ca2--extraordinary-madeleine-6901e0.netlify.app/)
@@ -78,7 +77,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>// aniketashokbhise · github.com</i>
-</p>
